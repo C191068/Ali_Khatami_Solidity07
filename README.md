@@ -7,4 +7,4 @@ In order to get any value that is outside of the blockchain we have to use decen
 We have to note that blockchain are deterministic systems which means they can interact with real world data and events.It can do any external computation.
 Blockchains can't all agree on what random number is.If we start adding random that return from API(Application programme interface) call, diiferent nodes <br>
 will get differnt results and they would never reach a consensus.Such problem is called smart contract connectivity problem or Oracle problem.<br>
-For this problem we can't replace smart contracts with traditional agreements and traditional agreements neeed data from real world.
+For this problem we can't replace smart contracts with traditional agreements and traditional agreements neeed data and they need to interact with real world.
