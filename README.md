@@ -1,6 +1,6 @@
 ## Ali_Khatami_Solidity07
 
-###Oracle and chainlink
+### Oracle and chainlink
 
 To convert ethereum to USD, oracle and chainblink are needed.The USD value of ethereum is something that we have assigned outside of the blockchain to each ethereum.
 In order to get any value that is outside of the blockchain we have to use decentralized oracle network to get the price of one ether in bterms of USD.
