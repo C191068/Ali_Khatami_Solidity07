@@ -58,6 +58,30 @@ Figure6: if we scroll down we will see a sample contract and we will open this a
 ![f10](https://user-images.githubusercontent.com/89090776/235358588-819e004c-509d-43db-938a-28179d567267.jpg)
 Figure7: here it is reading from a price feed on sepolia<br>
 
+![f11](https://user-images.githubusercontent.com/89090776/235647190-2cbeab27-c62b-4af1-9963-bc8d18cbe49c.jpg)
+Figure8:It is our metamask wallet account which is running under sepolia test network and which has about ```0.1983 SepoliaEth``` and <br>
+our sample contract supports Sepolia test network<br>
+
+![f12](https://user-images.githubusercontent.com/89090776/235647740-89c3868e-8358-4cda-9cdd-847ec5335672.jpg)
+Figure9: after clicking the compile button the contract is successfully compiled<br>
+
+![f14](https://user-images.githubusercontent.com/89090776/235648015-28eb31e3-952f-410b-9828-364ab673eb6a.jpg)
+Figure10: after clicking the ```Deploy``` button our metamask window will pop up and will show the amount needed for the transaction<br>
+we will click the ```Confirm``` button<br>
+
+![f15](https://user-images.githubusercontent.com/89090776/235648530-432e399a-9d61-4cd1-b60e-033da0668c8c.jpg)
+Figure11: thus successful transaction occured <br>
+
+![f16](https://user-images.githubusercontent.com/89090776/235648693-1a84d751-9181-4783-b089-f31549e09e65.jpg)
+Figure12:then on our deployed contract if we click the ```getLatestPrice``` button we wil get the latest price of ethereum in terms of USD<br>
+here which is about ```2809807930000``` it is a large number becauews decimel does not work well at solidity,according to common knowledge <br>
+the amount will be ```$2809.807930000```
+
+
+
+
+
+
 
 
 
