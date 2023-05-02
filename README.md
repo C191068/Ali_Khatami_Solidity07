@@ -84,6 +84,14 @@ Decentralized finance(DeFi)<br>
 Figure13: If we want different contracts of different price feeds go to this section of this link ```https://docs.chain.link/data-feeds/price-feeds/addresses```<br>
 
 
+```Chainlink verifiable randomness function``` is another decentralizwed application.Blockchain are deterministic system which means they can't have randomness<br>
+If we can determine what a random number is , it is not really a random number anymore<br>
+
+So we need to get a probably random number by looking outside of the blockchain and oracle are able to do that<br>
+
+
+
+
 
 
 
