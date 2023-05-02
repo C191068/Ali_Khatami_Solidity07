@@ -1,3 +1,4 @@
+
 ## Ali_Khatami_Solidity07
 
 ### Oracle and chainlink
@@ -109,6 +110,9 @@ End-to-end reliablity is another out of the box feature of chain link and is the
 by this we want be able to take any input and get any output<br>
 
 
+
+![f18](https://user-images.githubusercontent.com/89090776/235679906-a52e758e-412a-486a-b579-5845b2671fbf.jpg)
+Figure14: making HTTP GET and HTTP POST request is an easy way to customize our chainlink nodes to make it able do anything<br>
 
 
 
