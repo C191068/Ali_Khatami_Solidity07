@@ -123,6 +123,12 @@ chainlink node and URL slash(/) data to send a request to <br>
 Figure15: We can take look at example by going through this section of the document<br>
 
 
+![f20](https://user-images.githubusercontent.com/89090776/235686840-377e0ef9-1abc-4ab9-8a5a-3c61644bf621.jpg)
+Figure16: Here our example contract is successfully compiled at remix platform<br>
+
+
+
+
 
 
 
