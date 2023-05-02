@@ -119,6 +119,12 @@ Chainlink nodes can make API calls by themselves. it can make direct request to 
 chainlink node and URL slash(/) data to send a request to <br>
 
 
+![f19](https://user-images.githubusercontent.com/89090776/235685687-1d2dc811-636e-42da-8743-5fe6158f3100.jpg)
+Figure15: We can take look at example by going through this section of the document<br>
+
+
+
+
 
 
 
