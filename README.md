@@ -95,7 +95,7 @@ It is used for lotteries,for randomizing NFTs ,for gaming and for more<br>
 
 
 
-
+A provably random number is a number that is generated in a way that is transparent, verifiable, and unbiased, meaning that it cannot be manipulated or predicted by anyone, including the party generating the number.
 
 
 
