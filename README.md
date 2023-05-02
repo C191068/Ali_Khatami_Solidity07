@@ -78,7 +78,11 @@ here which is about ```2809807930000``` it is a large number becauews decimel do
 the amount will be ```$2809.807930000```
 
 Price feeds are one of the most powerful out of the box decentralized features you can use your smart contracts to level them up especially for <br>
-Decentralized finance(DeFi)
+Decentralized finance(DeFi)<br>
+
+![f17](https://user-images.githubusercontent.com/89090776/235651833-6ec01c32-1620-487f-81ab-d730c40c1849.jpg)
+Figure13: If we want differentcontracts of diffe5rent price feeds go to this section of this link ```https://docs.chain.link/data-feeds/price-feeds/addresses```<br>
+
 
 
 
