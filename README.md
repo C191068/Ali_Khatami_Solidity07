@@ -87,7 +87,11 @@ Figure13: If we want different contracts of different price feeds go to this sec
 ```Chainlink verifiable randomness function``` is another decentralizwed application.Blockchain are deterministic system which means they can't have randomness<br>
 If we can determine what a random number is , it is not really a random number anymore<br>
 
-So we need to get a probably random number by looking outside of the blockchain and oracle are able to do that<br>
+So we need to get a provably random number by looking outside of the blockchain and oracle are able to do that<br>
+
+Chainlink VRF is a way to get provably random number to guarantee fairness and guarantee randomness of applications<br>
+It is used for lotteries,for randomizing NFTs ,for gaming and for more<br>
+
 
 
 
