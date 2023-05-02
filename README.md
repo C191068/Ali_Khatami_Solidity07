@@ -144,6 +144,18 @@ Whenever we request data from chainlink node we have to pay a little bit of Orac
 In order to pay some link token we need to have some link token in our these example APIconsumer contract 
 
 
+![f24](https://user-images.githubusercontent.com/89090776/235694995-4b13551d-fcad-4372-a79b-741734c2e470.jpg)
+
+![f25](https://user-images.githubusercontent.com/89090776/235695178-a15f3503-0204-4a6a-b27a-74817bfc37cc.jpg)
+
+![f26](https://user-images.githubusercontent.com/89090776/235695286-97c20eed-31f6-427c-ba9e-24d5f96de037.jpg)
+
+![f27](https://user-images.githubusercontent.com/89090776/235695368-ac71a932-4f96-44cd-9fed-936df89f7d8d.jpg)
+
+
+
+
+
 
 
 
