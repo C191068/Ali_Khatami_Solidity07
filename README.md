@@ -77,7 +77,8 @@ Figure12:then on our deployed contract if we click the ```getLatestPrice``` butt
 here which is about ```2809807930000``` it is a large number becauews decimel does not work well at solidity,according to common knowledge <br>
 the amount will be ```$2809.807930000```
 
-
+Price feeds are one of the most powerful out of the box decentralized features you can use your smart contracts to level them up especially for <br>
+Decentralized finance(DeFi)
 
 
 
