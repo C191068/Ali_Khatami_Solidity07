@@ -139,7 +139,9 @@ Figure18: thus successful transaction occured <br>
 ![f23](https://user-images.githubusercontent.com/89090776/235689708-0cbd7080-9d43-4f9e-b66b-242e743ee048.jpg)
 Figure19: this is our deployed contract<br>
 
-Whenever we request data from chainlink node we have to pay a little bit of Oracle gas or link token
+Whenever we request data from chainlink node we have to pay a little bit of Oracle gas or link token<br>
+
+In order to pay some link token we need to have some link token in our these example APIconsumer contract 
 
 
 
