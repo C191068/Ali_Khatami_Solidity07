@@ -126,6 +126,13 @@ Figure15: We can take look at example by going through this section of the docum
 ![f20](https://user-images.githubusercontent.com/89090776/235686840-377e0ef9-1abc-4ab9-8a5a-3c61644bf621.jpg)
 Figure16: Here our example contract is successfully compiled at remix platform<br>
 
+![f21](https://user-images.githubusercontent.com/89090776/235688095-4a567659-3520-4b31-b5c6-694a02539198.jpg)
+Figure17: when we click the ```deploy``` button the metamask windows pop uop showing the amount needed for this transaction<br>
+
+
+
+
+
 
 
 
