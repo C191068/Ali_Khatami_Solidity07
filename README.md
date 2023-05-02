@@ -115,6 +115,10 @@ by this we want be able to take any input and get any output<br>
 Figure14: making HTTP GET and HTTP POST request is an easy way to customize our chainlink nodes to make it able do anything<br>
 
 
+Chainlink nodes can make API calls by themselves<br>
+
+
+
 
 
 
