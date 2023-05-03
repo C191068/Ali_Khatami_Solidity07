@@ -180,6 +180,10 @@ Now as we have link or Oracle gas, we are going to send our APi consumer contrac
 ![f32](https://user-images.githubusercontent.com/89090776/235840398-dcf74d4f-8daa-487f-8eae-0a06776b2c67.jpg)
 Figure26: for that we will copy the address of API consumer contract <br>
 
+![f33](https://user-images.githubusercontent.com/89090776/235840839-51660c7e-9637-4567-a37d-82af9abc6fb1.jpg)
+Figure27: we will click the blue color ```Send``` button<br>
+
+
 
 
 
