@@ -186,6 +186,11 @@ Figure27: we will click the blue color ```Send``` button<br>
 ![f34](https://user-images.githubusercontent.com/89090776/235841126-2bfbda61-3e32-4f2c-877b-41187cc4f64c.jpg)
 Figure28: We will paste the address and on the asset section we will click 40 link tokeen option<br>
 
+![f35](https://user-images.githubusercontent.com/89090776/235842701-f31ba3b3-aef5-4d70-ba31-177b4df6ac7d.jpg)\
+Figure29: on ```Edit``` section at ```Amount``` part we will send 0.2 LINK out of 40 LINK<br>
+
+
+
 
 
 
