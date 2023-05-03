@@ -151,6 +151,7 @@ Figure19: For this we will go to https://faucets.chain.link/ and to request for 
 Figure20: When we click the ```send request``` button the transfer of token will occur successfully
 
 ![f26](https://user-images.githubusercontent.com/89090776/235695286-97c20eed-31f6-427c-ba9e-24d5f96de037.jpg)
+Figure21: on our metamask wallet account under asset section we will ckick on ```Import token``` option
 
 ![f27](https://user-images.githubusercontent.com/89090776/235695368-ac71a932-4f96-44cd-9fed-936df89f7d8d.jpg)
 
