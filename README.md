@@ -200,8 +200,10 @@ Figure31: When we send LINK to tyhe contract we click the ```Volume``` button as
 ![f38](https://user-images.githubusercontent.com/89090776/235844991-7b8a12fd-2e88-4ade-824b-28e4cd6d0aa4.jpg)
 Figure32: If we click this link https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD <br>
 It is a link of API which actually we gonna make http get request.
-![f39](https://user-images.githubusercontent.com/89090776/235845311-1d9b40ab-0515-40a6-99a2-14822fb72699.jpg)
-Figure33: We will see here a ton of raw data and we need to get only these "VOLUME24HOURTO":362190133.77581346"
+
+![f39](https://user-images.githubusercontent.com/89090776/235849969-b3a1b623-ecb6-4aad-9418-f57f5e2e4650.jpg)
+
+Figure33: We will see here a ton of raw data and we need to get only these "VOLUME24HOUR":195042.94238641"
 
 Here in the code below
 
@@ -326,7 +328,8 @@ Then we will click the ```Confirm``` button
 Figure35: thus our transaction have successfully occured<br>
 
 
-
+![f42](https://user-images.githubusercontent.com/89090776/235849304-d215cc4e-e188-4bae-96e0-5032ac2a243b.jpg)
+Figure36: then when we click the volume button it has returned equavlent to that API thus it has successfully called the APUI to our contract
 
 
 
