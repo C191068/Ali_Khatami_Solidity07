@@ -177,6 +177,11 @@ Figure25: at last 40 link token gets added to our account <br>
 Now as we have link or Oracle gas, we are going to send our APi consumer contract<br>
 
 
+![f32](https://user-images.githubusercontent.com/89090776/235840398-dcf74d4f-8daa-487f-8eae-0a06776b2c67.jpg)
+Figure26: for that we will copy the address of API consumer contract <br>
+
+
+
 
 
 
