@@ -145,7 +145,13 @@ In order to pay some link token we need to have some link token in our these exa
 
 
 ![f24](https://user-images.githubusercontent.com/89090776/235694995-4b13551d-fcad-4372-a79b-741734c2e470.jpg)
-Figure19: For this we will go to https://faucets.chain.link/ and to request for 20 test link
+Figure19: For this we will go to https://faucets.chain.link/ and to request for 20 test link which is known as ERC20 token<br>
+
+ERC20 is a technical standard used for creating tokens on the Ethereum blockchain. ERC stands for "Ethereum Request for Comment," which is a type of technical proposal that developers can submit to suggest changes to the Ethereum network.
+
+ERC20 tokens are tokens that follow a specific set of rules outlined in the ERC20 standard. These rules include how the tokens are transferred, how they are tracked, and how they interact with other tokens and smart contracts on the Ethereum network. By following these rules, ERC20 tokens are designed to be easily exchangeable with other ERC20 tokens and to work seamlessly with other applications built on the Ethereum network.<br>
+
+
 
 ![f25](https://user-images.githubusercontent.com/89090776/235695178-a15f3503-0204-4a6a-b27a-74817bfc37cc.jpg)
 Figure20: When we click the ```send request``` button the transfer of token will occur successfully
@@ -163,6 +169,7 @@ Figure23: At ```Sepolia testnet``` section at ```Address``` part we will click o
 
 
 ![f30](https://user-images.githubusercontent.com/89090776/235697663-aa3473da-1cbf-484c-9a3b-4090745d8215.jpg)
+Figure24:After we click the ```Add to wallet``` button the metamask window will pop up asking for confirmartion whwther to add 40 link token or not 
 
 ![f31](https://user-images.githubusercontent.com/89090776/235697715-4522808d-77cd-48ca-ac00-2eb6e584dafd.jpg)
 
