@@ -200,6 +200,10 @@ Figure31: When we send LINK to tyhe contract we click the ```Volume``` button as
 ![f38](https://user-images.githubusercontent.com/89090776/235844991-7b8a12fd-2e88-4ade-824b-28e4cd6d0aa4.jpg)
 Figure32: If we click this link https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD <br>
 
+![f39](https://user-images.githubusercontent.com/89090776/235845311-1d9b40ab-0515-40a6-99a2-14822fb72699.jpg)
+Figure33: We will see here a ton of raw data and we need to get only these "VOLUME24HOURTO":362190133.77581346"
+
+
 
 
 
