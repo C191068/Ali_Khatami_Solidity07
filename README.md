@@ -148,7 +148,7 @@ In order to pay some link token we need to have some link token in our these exa
 Figure19: For this we will go to https://faucets.chain.link/ and to request for 20 test link
 
 ![f25](https://user-images.githubusercontent.com/89090776/235695178-a15f3503-0204-4a6a-b27a-74817bfc37cc.jpg)
-Figure20: When we click the ```send request``` button the transfer of to
+Figure20: When we click the ```send request``` button the transfer of token will occur successfully
 
 ![f26](https://user-images.githubusercontent.com/89090776/235695286-97c20eed-31f6-427c-ba9e-24d5f96de037.jpg)
 
