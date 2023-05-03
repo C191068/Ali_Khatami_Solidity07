@@ -316,9 +316,10 @@ And in the second transaction the chain link node is gonna return value and stor
 
 
 
+![f40](https://user-images.githubusercontent.com/89090776/235847761-bc270c7b-0457-4115-a56e-69aa24afc7bc.jpg)
 
 
-
+Figure34:We will click on ```requestVolume``` button and metamsk window will pop up sa it is a button due to a gas calling function<br>
 
 
 
