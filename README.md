@@ -319,7 +319,15 @@ And in the second transaction the chain link node is gonna return value and stor
 ![f40](https://user-images.githubusercontent.com/89090776/235847761-bc270c7b-0457-4115-a56e-69aa24afc7bc.jpg)
 
 
-Figure34:We will click on ```requestVolume``` button and metamsk window will pop up sa it is a button due to a gas calling function<br>
+Figure34:We will click on ```requestVolume``` button and metamsk window will pop up showing fee for transaction as it is a button due to a gas calling function<br>
+Then we will click the ```Confirm``` button
+
+![f41](https://user-images.githubusercontent.com/89090776/235848365-90884a87-adc0-4a3b-a2db-8c194c17c749.jpg)
+Figure35: thus our transaction have successfully occured<br>
+
+
+
+
 
 
 
