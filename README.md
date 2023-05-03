@@ -172,7 +172,11 @@ Figure23: At ```Sepolia testnet``` section at ```Address``` part we will click o
 Figure24:After we click the ```Add to wallet``` button the metamask window will pop up asking for confirmartion whwther to add 40 link token or not 
 
 ![f31](https://user-images.githubusercontent.com/89090776/235697715-4522808d-77cd-48ca-ac00-2eb6e584dafd.jpg)
-Figure25: at last 40 link token gets added to our account 
+Figure25: at last 40 link token gets added to our account <br>
+
+Now as we have link or Oracle gas, we are going to send our APi consumer contract<br>
+
+
 
 
 
