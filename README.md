@@ -183,6 +183,11 @@ Figure26: for that we will copy the address of API consumer contract <br>
 ![f33](https://user-images.githubusercontent.com/89090776/235840839-51660c7e-9637-4567-a37d-82af9abc6fb1.jpg)
 Figure27: we will click the blue color ```Send``` button<br>
 
+![f34](https://user-images.githubusercontent.com/89090776/235841126-2bfbda61-3e32-4f2c-877b-41187cc4f64c.jpg)
+Figure28: We will paste the address and on the asset section we will click 40 link tokeen option<br>
+
+
+
 
 
 
