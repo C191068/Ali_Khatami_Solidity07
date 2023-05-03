@@ -158,8 +158,9 @@ Figure22: Going to https://docs.chain.link/ we will search for ```Link Token con
 
 
 ![f28](https://user-images.githubusercontent.com/89090776/235696155-65b9da21-10f2-4fa7-b2f1-e49002066675.jpg)
+Figure23: At ```Sepolia testnet``` section at ```Address``` part we will click on ```Add to wallet``` button
 
-![f29](https://user-images.githubusercontent.com/89090776/235697628-f69b9630-81cd-4709-a6f0-02e34a7392ee.jpg)
+
 
 ![f30](https://user-images.githubusercontent.com/89090776/235697663-aa3473da-1cbf-484c-9a3b-4090745d8215.jpg)
 
