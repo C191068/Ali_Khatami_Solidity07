@@ -194,6 +194,9 @@ Figure29: on ```Edit``` section at ```Amount``` part we will send 0.2 LINK out o
 Figure30: Next we will hit the ```Confirm``` button
 
 
+![f37](https://user-images.githubusercontent.com/89090776/235844342-a7b426d9-4d86-4d5e-9268-bd9a6324a43c.jpg)
+Figure31: When we send LINK to tyhe contract we click the ```Volume``` button as our to target to get volume of last 24 hour of Ethereum asset<br>
+
 
 
 
