@@ -107,6 +107,12 @@ A provably random number is a number that is generated in a way that is transpar
 Chainlink keepers is also an out of the box decentralized feature of chainlink and it is a decentralized event driven execution<br>
 chainlink keepers are chainlink nodes that listen to a registration contract for different events that we specify,it can be some minutes or week<br>
 
+It ensures that blockchain applications can react to real-world data changes, like price feeds, without relying on manual interventions<br>
+Manual interventions" refer to actions or steps that need to be taken by people. In the context of Chainlink Keepers, it means that without automated systems like Keepers, humans would need to manually check for specific events or changes in the real world and then trigger actions on the blockchain. With Chainlink Keepers, these actions can be executed automatically without the need for human involvement, making the process more efficient and reducing the reliance on manual efforts.<br>
+
+
+
+
 End-to-end reliablity is another out of the box feature of chain link and is the ultimate promise of smart contracts and we want them to be able to do anything<br>
 by this we want be able to take any input and get any output<br>
 
